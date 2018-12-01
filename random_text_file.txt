@@ -1,3 +1,6 @@
 This is a random text file
+<<<<<<< HEAD
 added 1 extra line in between
+=======
+>>>>>>> parent of e166013... added 2 extra lines
 I have added a 2nd line
