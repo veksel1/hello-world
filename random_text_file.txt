@@ -1,1 +1,2 @@
 This is a random text file
+I have added a 2nd line
