@@ -1,3 +1,4 @@
+#a line for comment (new)
 This is a random text file
 added 1 extra line in between
 I have added a 2nd line
